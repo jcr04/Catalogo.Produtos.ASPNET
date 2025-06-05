@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "catalog_prod.api.Controllers.produtoController",
+    "Method": "Create",
+    "RelativePath": "api/produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "catalog_prod.application.Produtos.commands.CriarProdutoCommands\u002BCriarProdutoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "catalog_prod.api.Controllers.produtoController",
+    "Method": "GetAll",
+    "RelativePath": "api/produto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
