@@ -1,0 +1,17 @@
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\bin\Debug\net8.0\catalog_prod.infra.deps.json
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\bin\Debug\net8.0\catalog_prod.infra.runtimeconfig.json
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\bin\Debug\net8.0\catalog_prod.infra.dll
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\bin\Debug\net8.0\catalog_prod.infra.pdb
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\bin\Debug\net8.0\catalog_prod.domain.dll
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\bin\Debug\net8.0\catalog_prod.domain.pdb
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\catalog_prod.infra.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\catalog_prod.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\catalog_prod.infra.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\catalog_prod.infra.AssemblyInfo.cs
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\catalog_prod.infra.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\catalog_.101BF369.Up2Date
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\catalog_prod.infra.dll
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\refint\catalog_prod.infra.dll
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\catalog_prod.infra.pdb
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\catalog_prod.infra.genruntimeconfig.cache
+C:\Users\PICHAU\Joao\backend\catalog\catalog_prod.infra\obj\Debug\net8.0\ref\catalog_prod.infra.dll
