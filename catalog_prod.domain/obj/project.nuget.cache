@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xHTOpp3Y5fY=",
+  "dgSpecHash": "SQDF6MJ/CIA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.domain\\catalog_prod.domain.csproj",
+  "projectFilePath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.domain\\catalog_prod.domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

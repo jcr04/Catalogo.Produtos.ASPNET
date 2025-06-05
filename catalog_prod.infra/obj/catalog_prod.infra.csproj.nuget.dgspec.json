@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.infra\\catalog_prod.infra.csproj": {}
+    "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.infra\\catalog_prod.infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.domain\\catalog_prod.domain.csproj": {
+    "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.domain\\catalog_prod.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.domain\\catalog_prod.domain.csproj",
+        "projectUniqueName": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.domain\\catalog_prod.domain.csproj",
         "projectName": "catalog_prod.domain",
-        "projectPath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.domain\\catalog_prod.domain.csproj",
+        "projectPath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.domain\\catalog_prod.domain.csproj",
         "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.domain\\obj\\",
+        "outputPath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.infra\\catalog_prod.infra.csproj": {
+    "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.infra\\catalog_prod.infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.infra\\catalog_prod.infra.csproj",
+        "projectUniqueName": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.infra\\catalog_prod.infra.csproj",
         "projectName": "catalog_prod.infra",
-        "projectPath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.infra\\catalog_prod.infra.csproj",
+        "projectPath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.infra\\catalog_prod.infra.csproj",
         "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.infra\\obj\\",
+        "outputPath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.domain\\catalog_prod.domain.csproj": {
-                "projectPath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.domain\\catalog_prod.domain.csproj"
+              "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.domain\\catalog_prod.domain.csproj": {
+                "projectPath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.domain\\catalog_prod.domain.csproj"
               }
             }
           }
@@ -148,9 +148,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

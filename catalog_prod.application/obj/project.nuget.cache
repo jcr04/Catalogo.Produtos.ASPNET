@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tl/qEUQuSBQ=",
+  "dgSpecHash": "s2cRSv3Am/s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\catalog_prod.application\\catalog_prod.application.csproj",
+  "projectFilePath": "C:\\Users\\PICHAU\\Joao\\backend\\catalog\\Catalogo.Produtos.ASPNET\\catalog_prod.application\\catalog_prod.application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PICHAU\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\PICHAU\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
